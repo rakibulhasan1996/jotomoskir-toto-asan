@@ -4,5 +4,11 @@
     text-align: justify;
     font-size: 32px;
     font-family:Comic Sans Ms;
-
+}
+img{
+    height:400px ;
+    weight:400px;
+    border: 10px solid greenyellow;
+    box-shadow:10px 10px 10px  green ;
+    border-radius: 10px;
 }
